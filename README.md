@@ -1,9 +1,22 @@
-Hi, my name is Rikard Hallberg. I'm a frontend web developer, student at MDH (Mälardalens Högskola, Västerås), and I love cats.
+<h1 align="center">⚡ Rikard Hallberg ⚡</h1>
+<h3>Computer science graduate from <a href="https://www.mdu.se/en/malardalen-university">MDU</a>.</h3>
+<h3>Over 3 years experience coding both Front-End and Back-End applications using various different technologies during my education.</h3>
 
-# Skills
-- Programming languages: Javascript, CSS, HTML, React, TypeScript.
-- Programs: Figma, Wordpress, VSCode, Discord, Slack
+- 🌱 I'm building my skills in DevOps.
 
+- 🎹 As a hobby I've studied piano academically for 8+ years (classical, jazz) combined.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+https://www.linkedin.com/in/rikardhallberg/
+</p>
+
+<h3>Skills</h3>
+<ul>
+  <li>Tools: Git, Docker, VSCode, Figma, Slack</li>
+  <li>Programming languages: Typescript, C, C#, Python, R, F#, Dart, HTML, CSS, SQL</li>
+  <li>Frameworks: Vue, React</li>
+</ul>
 
 <!---
 rikhall1515/rikhall1515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
