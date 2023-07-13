@@ -1,10 +1,8 @@
-<h1 align="center">⚡ Rikard Hallberg ⚡</h1>
+<h1 align="center">Rikard Hallberg</h1>
 <h3>Computer science graduate from <a href="https://www.mdu.se/en/malardalen-university">MDU</a>.</h3>
 <h3>Over 3 years experience coding both Front-End and Back-End applications using various different technologies during my education.</h3>
 
 - 🌱 I'm building my skills in DevOps.
-
-- 🎹 As a hobby I've studied piano academically for 8+ years (classical, jazz) combined.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +11,7 @@ https://www.linkedin.com/in/rikardhallberg/
 
 <h3>Skills</h3>
 <ul>
-  <li>Tools: Git, Docker, VSCode, Figma, Slack</li>
+  <li>Tools: Git, Docker, Figma</li>
   <li>Programming languages: Typescript, C, C#, Python, R, F#, Dart, HTML, CSS, SQL</li>
   <li>Frameworks: Vue, React</li>
 </ul>
