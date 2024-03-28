@@ -1,7 +1,19 @@
-<h1 align="center">Rikard Hallberg</h1>
-<h3>Fullstack Developer. Computer science graduate from <a href="https://www.mdu.se/en/malardalen-university">MDU</a>.</h3>
-<h3>Over 3 years experience coding both Front-End and Back-End applications using various different technologies during my education.</h3>
-
+<h3>Hi I'm Rikard 👋</h3>
+<h3>Software Developer</h3>
+<ul>
+  <li>
+    🤝 Collaborating with people online to build webapps. Mostly using <a href="https://nextjs.org">Next.js</a>.
+  </li>
+  <li>
+    🗺️ Based in Sweden 🇸🇪
+  </li>
+  <li>
+    🏫 Computer science graduate from <a href="https://www.mdu.se/en/malardalen-university">Mälardalens Universitet</a>.
+  </li>
+  <li>
+    💻 My portfolio is at <a href="https://rikardhallberg.com">https://rikardhallberg.com</a>
+  </li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 https://www.linkedin.com/in/rikardhallberg/
