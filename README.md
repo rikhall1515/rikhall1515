@@ -8,16 +8,15 @@
     🗺️ Based in Sweden 🇸🇪
   </li>
   <li>
-    🏫 Computer science graduate from <a href="https://www.mdu.se/en/malardalen-university">Mälardalens Universitet</a>.
+    🏫 Computer science graduate from <a href="https://www.mdu.se/en/malardalen-university">@ Mälardalens Universitet</a>.
   </li>
   <li>
     💻 My portfolio is at <a href="https://rikardhallberg.com">https://rikardhallberg.com</a>
   </li>
+  <li>
+    🔗 Connect with me on <a href="https://www.linkedin.com/in/rikardhallberg/">LinkedIn</a>
+  </li>
 </ul>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-https://www.linkedin.com/in/rikardhallberg/
-</p>
 
 <h3>Skills</h3>
 <ul>
