@@ -2,7 +2,7 @@
 <h3>Software Developer</h3>
 <ul>
   <li>
-    🤝 Collaborating with people online to build webapps. Mostly using <a href="https://nextjs.org">Next.js</a>.
+    Currently building machine learning models at ABB!
   </li>
   <li>
     🗺️ Based in Sweden 🇸🇪
