@@ -2,7 +2,7 @@
 <h3>Software Developer</h3>
 <ul>
   <li>
-    Currently building machine learning models at ABB!
+    Currently building monitoring solutions at ABB CRC.
   </li>
   <li>
     🗺️ Based in Sweden 🇸🇪
